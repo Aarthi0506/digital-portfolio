@@ -1,0 +1,10 @@
+personal details
+
+Name         :R.Aarthi
+Date of birth:05/06/2006
+Gender       :female
+
+Education details
+
+University   :Bharathidasan University
+Department   :BCA
